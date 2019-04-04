@@ -1,14 +1,14 @@
 //
-//  MBProgressHUD.h
+//  MHProgressHUD.h
 //  TestAPNs
 //
 //  Created by Mortar on 2019/4/4.
 //  Copyright © 2019 Yan. All rights reserved.
 //
 
-#ifndef MBProgressHUD_h
-#define MBProgressHUD_h
+#ifndef MHProgressHUD_h
+#define MHProgressHUD_h
 
 #import "MBProgressHUD+AJExtension.h"
 
-#endif /* MBProgressHUD_h */
+#endif /* MHProgressHUD_h */

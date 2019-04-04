@@ -34,7 +34,7 @@
 		4C0334F9225596B80091FE85 /* MBProgressHUD+AJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+AJExtension.m"; sourceTree = "<group>"; };
 		4C0334FA225596B80091FE85 /* MBProgressHUD+AJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+AJExtension.h"; sourceTree = "<group>"; };
 		4C0334FB225596B80091FE85 /* MBProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MBProgressHUD.bundle; sourceTree = "<group>"; };
-		4C0335002255978C0091FE85 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		4C0335002255978C0091FE85 /* MHProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHProgressHUD.h; sourceTree = "<group>"; };
 		9B727144C14359B31B99AC68 /* Pods-MHProgressHUDDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MHProgressHUDDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MHProgressHUDDemo/Pods-MHProgressHUDDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,7 +105,7 @@
 		4C0334F8225596B70091FE85 /* MHProgressHUD */ = {
 			isa = PBXGroup;
 			children = (
-				4C0335002255978C0091FE85 /* MBProgressHUD.h */,
+				4C0335002255978C0091FE85 /* MHProgressHUD.h */,
 				4C0334FA225596B80091FE85 /* MBProgressHUD+AJExtension.h */,
 				4C0334F9225596B80091FE85 /* MBProgressHUD+AJExtension.m */,
 				4C0334FB225596B80091FE85 /* MBProgressHUD.bundle */,
